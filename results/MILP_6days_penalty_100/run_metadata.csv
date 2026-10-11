@@ -1,0 +1,2 @@
+solver_status,solve_seconds,planning_days,delay_penalty_per_order_day,original_orders,eligible_orders,unroutable_orders,binary_variables,objective,warehouse_cost,freight_cost,delay_cost
+Optimal,4.3265552000375465,6,100.0,6438,6438,0,51798,11161522.383234061,9813081.537487043,67940.84574708293,1280500.0
