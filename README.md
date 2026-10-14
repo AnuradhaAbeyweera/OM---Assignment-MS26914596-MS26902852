@@ -1,1 +1,3 @@
 # OM---Assignment-MS26914596-MS26902852
+
+This project focuses on minimising supply chain logistics costs by optimising the allocation of customer orders to suitable plants and carriers. Using the Supply Chain Logistics Problem dataset, we implement and compare two optimisation methods: Mixed Integer Linear Programming (MILP) and Simulated Annealing (SA). The model considers warehouse handling costs, freight costs, product–plant compatibility, plant–port connectivity, VMI customer restrictions, and plant capacity constraints. The project evaluates solution quality, computational runtime, and feasibility to understand the strengths and limitations of exact and metaheuristic optimisation approaches.
