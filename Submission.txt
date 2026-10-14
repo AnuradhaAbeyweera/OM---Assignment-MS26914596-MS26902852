@@ -1,5 +1,5 @@
 
-Link to the dataset                : https://www.kaggle.com/datasets/anisseezzebdi/supply-chain-logistics-problem/data
-Link to a public Github repository : https://github.com/AnuradhaAbeyweera/OM---Assignment-MS26914596-MS26902852
-Link to a youtube video            : 
-    MILP Solution  - https://youtu.be/-FYo8mLtrXI
+Link to the dataset                                             : https://www.kaggle.com/datasets/anisseezzebdi/supply-chain-logistics-problem?utm_source=chatgpt.com&select=Supply+chain+logistics+problem.xlsx
+Link to a public Github repository                              : https://github.com/AnuradhaAbeyweera/OM---Assignment-MS26914596-MS26902852.git
+Link to a youtube video  Anuradha Abeyweera MS26914596          : https://youtu.be/yYSYTIVSC7s
+Link to a youtube video  A.D.R.M.A.I Bandara MS26902852         : https://youtu.be/-FYo8mLtrXI
